@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Know No One for Google+™",
   "version": "1.0",
-  "description": "Hides friend suggestions in Google Plus.",
+  "description": "Hide friend ('people you may know') suggestions in Google Plus.",
   "content_security_policy": "media-src 'self'; object-src 'self'; script-src 'self' https://ssl.google-analytics.com;",
   "page_action" :
   {
